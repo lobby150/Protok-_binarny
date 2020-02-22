@@ -1,0 +1,4 @@
+﻿  server.cpp
+c:\users\marcin\desktop\binarka final od majkela\serwer\server\server\server.cpp(314): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\marcin\desktop\binarka final od majkela\serwer\server\server\server.cpp(416): warning C4715: "server::rozmiar_buffera”: niewszystkie ścieżki kodu zwracają wartość
+  server.vcxproj -> C:\Users\Marcin\Desktop\BINARKA FINAL OD MAJKELA\Serwer\server\Debug\server.exe

@@ -1,0 +1,7 @@
+﻿  client.cpp
+c:\users\marcin\desktop\binarka final od majkela\klient\client\client\client.cpp(56): warning C4129: "N": nierozpoznany znak sekwencji ucieczki
+c:\users\marcin\desktop\binarka final od majkela\klient\client\client\client.cpp(143): warning C4129: "N": nierozpoznany znak sekwencji ucieczki
+c:\users\marcin\desktop\binarka final od majkela\klient\client\client\client.cpp(293): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\marcin\desktop\binarka final od majkela\klient\client\client\client.cpp(408): warning C4101: "sign": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\marcin\desktop\binarka final od majkela\klient\client\client\client.cpp(455): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  client.vcxproj -> C:\Users\Marcin\Desktop\BINARKA FINAL OD MAJKELA\Klient\client\Debug\client.exe
